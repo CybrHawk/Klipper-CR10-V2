@@ -1,0 +1,10 @@
+Relay LEDS : 2 active low
+Relay Ventil Alim : 23 active high
+Relay Ventil CM : 24 active high
+Relay Alim : 3 active ?
+
+
+LEDs par strip : 12
+
+Data LED droit : 21
+Data LED gauche : 12
