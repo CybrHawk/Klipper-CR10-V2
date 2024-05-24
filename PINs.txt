@@ -4,7 +4,7 @@ Relay Ventil CM : 24 active high
 Relay Alim : 3 active ?
 
 
-LEDs par strip : 12
+LEDs par strip : 18
 
 Data LED droit : 21
 Data LED gauche : 12
